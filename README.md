@@ -1,2 +1,2 @@
-# Serveless-AWS-DIO
-Introdução a infraestrutura como código do bootcamp AWS ministrado pela DIO
+# Introdução ao Desenvolvimento Serverless na AWS
+Repositório para o curso de Introdução ao Desenvolvimento Serverless na AWS
